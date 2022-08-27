@@ -28,19 +28,19 @@ https://www.mytivu.it/Application/Channels/TV8.php
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 
 #EXTINF:-1 tvg-id="Telelombardia.it" tvg-name="Telelombardia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://massimoemanuelli.files.wordpress.com/2017/08/telelombardia-logo-attuale.jpg" group-title="LOCALI",Telelombardia
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://4.bp.blogspot.com/_a6w1Wk7jM8Q/SdIdCZjychI/AAAAAAAAABg/mP7dkQ1XZnk/s280/logo_TvCivica_def.png" tvg-shift="0" group-title="TV REGIONALI",Antenna 3 Massa
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="TopCalcio.it" tvg-name="TopCalcio" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.digital-news.it/files-admin/Simone/top-calcio-24.jpg" group-title="LOCALI",TopCalcio 24
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="Telecity" tvg-name="Telecity" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/05/7-GOLD-HD-TELECITY.png" group-title="LOCALI",Telecity
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="EspansioneTV" tvg-name="EspansioneTV" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/08/Espansione-Tv-HD.png" group-title="LOCALI",EspansioneTV
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-name="Bergamo Tv" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/bergamotv.png" tvg-shift="0" group-title="TV REGIONALI",Bergamo Tv
 http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
@@ -56,6 +56,9 @@ https://tivustream.website/urls/telenova
 
 #EXTINF:-1 tvg-name="Cremona 1" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/cremona1.jpg" tvg-shift="0" group-title="TV REGIONALI",Cremona 1
 https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20Mediaset" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/20-MEDIASET-HD.png" tvg-shift="0" group-title="TV REGIONALI",20 Mediaset
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4.png"group-title="RAI",Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
@@ -106,7 +109,7 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/mani
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist_1.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-name="37" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/08/37.png" group-title="LOCALI",37
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="DISCOVERY",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
@@ -118,7 +121,7 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/mani
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
 
 #EXTINF:-1 tvg-name="K2" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/K2.png" tvg-shift="0" group-title="TV REGIONALI",K2
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiGulp.png" group-title="RAI",Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
@@ -127,10 +130,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
 
 #EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Frisbee.png" tvg-shift="0" group-title="TV REGIONALI",Frisbee
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-name="BoingPlus" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/BOING-PLUS.png" tvg-shift="0" group-title="TV REGIONALI",Boing Plus
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
@@ -154,7 +157,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?sd=10&rebase=on&mux_audio=true
 
 #EXTINF:-1 tvg-name="Italia53" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/casa-Italia-53.png" tvg-shift="0" group-title="TV REGIONALI",Italia53
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiStoria.png" group-title="RAI",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
@@ -163,7 +166,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/HGTV.png" tvg-shift="0" group-title="TV REGIONALI",HGTV
-https://www.youtube.com/watch?v=770ybLnLQvg
+https://raw.githubusercontent.com/comleoita/iptv/main/placeholder.mp4
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Scuola" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiScuola.png" group-title="RAI",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
