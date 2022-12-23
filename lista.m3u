@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai1.png" group-title="RAI",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
+https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai2.png" group-title="RAI",Rai 2 
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
+https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668685
+https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" group-title="MEDIASET",Rete 4
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
@@ -61,19 +61,19 @@ https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4.png"group-title="RAI",Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
+https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=240" group-title="MEDIASET",Iris
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai5.png" group-title="RAI",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
+https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Raimovie.it" tvg-name="Rai Movie" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiMovie.png" group-title="RAI",Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
+https://raimovie1-dash-live.akamaized.net/dash/live/663983/raimovie1/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiPremium.png" group-title="RAI",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
+https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=240" group-title="Altre Tv",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
@@ -142,7 +142,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews" tvg-name="Rai News" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-News-24-n.png" group-title="Altre Tv",Rai News
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=240" group-title="MEDIASET",Italia 2
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
